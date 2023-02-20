@@ -1,0 +1,3 @@
+# Regression Test Case
+
+Migrating from `javax` to `jakarta` the class `io.swagger.v3.jaxrs2.integration.resources.BaseOpenApiResource` can't be found
